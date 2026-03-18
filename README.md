@@ -1,15 +1,16 @@
-Task Set 1 (Basics → Logic Building)
+# Python Backend Practice 
 
-Write programs for:
+This repository contains my Python practice programs as I prepare to become a Python Backend Developer and AI Engineer.
 
-1. Reverse a string (without slicing)
+## Completed Tasks
 
-2. Count vowels in a string
+### Phase 1
+- Reverse String (without slicing)
+- Count Vowels in a String
 
-3. Find second largest number in a list
+## Tech Used
+- Python
+- Git & GitHub
 
-4. Remove duplicates from list
-
-5. Check palindrome (string + number)
-
-6. Frequency of each character
+## Author
+Subir Sutradhar
