@@ -7,6 +7,7 @@ This repository contains my Python practice programs as I prepare to become a Py
 ### Phase 1
 - Reverse String (without slicing)
 - Count Vowels in a String
+- Find second largest number
 
 ## Tech Used
 - Python
